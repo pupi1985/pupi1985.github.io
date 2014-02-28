@@ -1,0 +1,42 @@
+- name: Plugins
+  link: /plugins/
+  dropdown:
+    - name: Profile Customizer
+      link: /plugins/profile-customizer/
+      free: false
+    - name: Bulk Content Generator
+      link: /plugins/bulk-content-generator/
+      free: false
+    - name: Advanced Search
+      link: /plugins/advanced-search/
+      free: false
+    - name: Social Network Profiles
+      link: /plugins/social-network-profiles/
+      free: false
+    - name: Temporary User Block
+      link: /plugins/temporary-user-block/
+      free: false
+    - name: User Reactions
+      link: /plugins/user-reactions/
+      free: false
+    - name: Just A Bump Plugin
+      link: /plugins/just-a-bump-plugin/
+      free: false
+    - name: Dynamic Mentions
+      link: /plugins/dynamic-mentions/
+      free: false
+    - name: SPAM Registration Stopper
+      link: /plugins/spam-registration-stopper/
+      free: true
+    - name: Configuration Manager
+      link: /plugins/configuration-manager/
+      free: true
+    - name: Fake Cron
+      link: /plugins/fake-cron/
+      free: true
+    - name: Random Avatar
+      link: /plugins/random-avatar/
+      free: true
+    - name: Maximum Tag Length
+      link: /plugins/maximum-tag-length/
+      free: true

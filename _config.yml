@@ -1,0 +1,69 @@
+# Site Settings
+remote_theme: chrisrhymes/bulma-clean-theme
+
+lang: en
+title: pupi1985 store
+tagline: Online store for all pupi1985 plugins
+email: your-email@domain.com
+description: >
+  Online store for all pupi1985 plugins
+baseurl: "/"
+url: "https://pupi1985.github.io"
+permalink: pretty
+#gh_sponsor: chrisrhymes
+#hide_share_buttons: true
+#theme_color: '#eeeeee'
+#fixed_navbar: top
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+google_analytics: UA-4040280-14
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: false
+  - scope:
+      path: ""
+      type: "plugins"
+    values:
+      hide_hero: true
+  - scope:
+      path: "img"
+    values:
+      image: true
+
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  plugins:
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+
+demo_site: https://q2a-pupi1985.herokuapp.com
+paypal_client_id: AYr6s8JxprHABtDqBzf0H7OQwmuNHUQYXkHWAjTWaHi9xXcbpMyL0lkAZZ_GnwQK0tNCb1BEPp1s-yNq
