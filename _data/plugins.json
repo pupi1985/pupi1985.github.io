@@ -2,42 +2,46 @@
 	{
 		"title": "PC - Profile Customizer",
 		"description": "Allows the customization of the profile page by adding additional features not present in the core, including tracking of point changes.",
-		"url": "http://www.question2answer.org/qa/36952",
-	}, {
-		"title": "UR - User Reactions",
-		"description": "Allows users to react to questions, answers and comments.",
-		"url": "http://www.question2answer.org/qa/62711",
-	}, {
-		"title": "DM - Dynamic Mentions",
-		"description": "Allows users to be mentioned using the `@user` syntax.",
-		"url": "http://www.question2answer.org/qa/66929",
-	}, {
-		"title": "AS - Advanced Search",
-		"description": "Extends the way in which Q2A searches for posts and allows the user to get better results when searching.",
-		"url": "http://www.question2answer.org/qa/54072"
-	}, {
-		"title": "SNP - Social Network Profiles",
-		"description": "Allows users to add information about social networks they are part of and share it with the community.",
-		"url": "http://www.question2answer.org/qa/46857"
-	}, {
-		"title": "JABP - Just A Bump Plugin",
-		"description": "Allows users to bump questions sending them to the top of the _All activity_ section.",
-		"url": "http://www.question2answer.org/qa/31264"
+		"url": "https://www.question2answer.org/qa/36952",
 	}, {
 		"title": "BCG - Bulk Content Generator",
 		"description": "Allows admins to generate large amounts of content on their sites simply by uploading files (.xls, .xlsx, .ods, among other file formats).",
-		"url": "http://www.question2answer.org/qa/54488"
+		"url": "https://www.question2answer.org/qa/54488"
+	}, {
+		"title": "JABP - Just A Bump Plugin",
+		"description": "Allows users to bump questions sending them to the top of the _All activity_ section.",
+		"url": "https://www.question2answer.org/qa/31264"
+	}, {
+		"title": "UR - User Reactions",
+		"description": "Allows users to react to questions, answers and comments.",
+		"url": "https://www.question2answer.org/qa/62711",
+	}, {
+		"title": "DM - Dynamic Mentions",
+		"description": "Allows users to be mentioned using the `@user` syntax.",
+		"url": "https://www.question2answer.org/qa/66929",
+	}, {
+		"title": "AS - Advanced Search",
+		"description": "Extends the way in which Q2A searches for posts and allows the user to get better results when searching.",
+		"url": "https://www.question2answer.org/qa/54072"
+	}, {
+		"title": "TUB - Temporary User Block",
+		"description": "Allows users to be blocked for a period of time and then be automatically unblocked.",
+		"url": "https://www.question2answer.org/qa/73008"
+	}, {
+		"title": "SNP - Social Network Profiles",
+		"description": "Allows users to add information about social networks they are part of and share it with the community.",
+		"url": "https://www.question2answer.org/qa/46857"
 	}, {
 		"title": "RA - Random Avatar",
 		"description": "Assigns new users a random avatar from a given set immediately after registering.",
-		"url": "http://www.question2answer.org/qa/39812"
+		"url": "https://www.question2answer.org/qa/39812"
 	}, {
 		"title": "MTL - Maximum Tag Length",
 		"description": "Limits the amount of characters allowed per each question tag.",
-		"url": "http://www.question2answer.org/qa/41822"
+		"url": "https://www.question2answer.org/qa/41822"
 	}, {
 		"title": "FC - Fake Cron",
 		"description": "Fires events after a certain amount of requests or in a time-based manner (daily, weekly, monthly).",
-		"url": "http://www.question2answer.org/qa/42051"
+		"url": "https://www.question2answer.org/qa/42051"
 	}
 ]
