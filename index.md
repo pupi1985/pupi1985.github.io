@@ -15,7 +15,7 @@ You can check my pull requests to the Q2A core in this [link](https://github.com
 
 Every year I develop a couple of plugins. I try to bring to Q2A ideas that are either innovative or proven to work in other platforms. Check them out [here](/plugins/).
 
-Premium plugins can be tested from [this link](http://q2a-pupi1985.herokuapp.com).
+Premium plugins can be tested from [this link](https://www.pupi1985.tk).
 
 ## Q2A services
 
