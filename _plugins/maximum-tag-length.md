@@ -7,8 +7,8 @@ layout: product
 image: /img/MTL-settings.png
 price: 0
 wiki_url: https://github.com/pupi1985/q2a-maximum-tag-length
-download_url: https://github.com/pupi1985/q2a-maximum-tag-length/archive/refs/heads/master.zip
-sort_order: 13
+download_url: https://github.com/pupi1985/q2a-maximum-tag-length/releases/latest
+sort_order: 14
 features:
     - label: Users can configure the maximum tag length in the settings
       icon: fa-cogs

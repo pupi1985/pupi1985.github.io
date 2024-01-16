@@ -7,8 +7,8 @@ layout: product
 image: /img/RA-profile.png
 price: 0
 wiki_url: https://github.com/pupi1985/q2a-random-avatar
-download_url: https://github.com/pupi1985/q2a-random-avatar/archive/refs/heads/master.zip
-sort_order: 12
+download_url: https://github.com/pupi1985/q2a-random-avatar/releases/latest
+sort_order: 13
 features:
     - label: Users are assigned a random avatar on registration
       icon: fa-user-circle

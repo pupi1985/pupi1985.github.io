@@ -25,11 +25,14 @@
     - name: Dynamic Mentions
       link: /plugins/dynamic-mentions/
       free: false
-    - name: SPAM Registration Stopper
-      link: /plugins/spam-registration-stopper/
+    - name: Flexible Notificationsn System
+      link: /plugins/flexible-notifications-system/
       free: true
     - name: Configuration Manager
       link: /plugins/configuration-manager/
+      free: true
+    - name: SPAM Registration Stopper
+      link: /plugins/spam-registration-stopper/
       free: true
     - name: Fake Cron
       link: /plugins/fake-cron/

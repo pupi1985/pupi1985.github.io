@@ -7,8 +7,8 @@ layout: product
 image: /img/COMA-settings.png
 price: 0
 wiki_url: https://github.com/pupi1985/q2a-pupi-coma
-download_url: https://github.com/pupi1985/q2a-pupi-coma/archive/refs/heads/master.zip
-sort_order: 9
+download_url: https://github.com/pupi1985/q2a-pupi-coma/releases/latest
+sort_order: 10
 features:
     - label: Export Q2A configuration
       icon: fa-file-download

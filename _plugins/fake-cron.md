@@ -7,8 +7,8 @@ layout: product
 image: /img/FC-code.png
 price: 0
 wiki_url: https://github.com/pupi1985/q2a-fake-cron
-download_url: https://github.com/pupi1985/q2a-fake-cron/archive/refs/heads/master.zip
-sort_order: 11
+download_url: https://github.com/pupi1985/q2a-fake-cron/releases/latest
+sort_order: 12
 features:
     - label: Ability to fire events faking time events
       icon: fa-cloud

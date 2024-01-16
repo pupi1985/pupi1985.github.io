@@ -7,8 +7,8 @@ layout: product
 image: /img/SRS-settings.png
 price: 0
 wiki_url: https://github.com/pupi1985/q2a-pupi-srs
-download_url: https://github.com/pupi1985/q2a-pupi-srs/archive/refs/heads/master.zip
-sort_order: 10
+download_url: https://github.com/pupi1985/q2a-pupi-srs/releases/latest
+sort_order: 11
 features:
     - label: Prevent potential SPAM user registrations
       icon: fa-ban
