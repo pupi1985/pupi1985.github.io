@@ -15,7 +15,7 @@ features:
     - label: Easy integration with plugins and themes
       icon: fa-puzzle-piece
     - label: High performance
-      icon: fa-gauge-high
+      icon: fa-tachometer-alt
 ---
 
 In the world of Q2A, I wear three different hats, each with its own set of needs:

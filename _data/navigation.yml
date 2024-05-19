@@ -25,7 +25,7 @@
     - name: Dynamic Mentions
       link: /plugins/dynamic-mentions/
       free: false
-    - name: Flexible Notificationsn System
+    - name: Flexible Notifications System
       link: /plugins/flexible-notifications-system/
       free: true
     - name: Configuration Manager
